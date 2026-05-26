@@ -9,14 +9,14 @@ local LocalPlayer = Players.LocalPlayer
 
 local AllowedUserIDs = {
 
-   [9660032322] = true,
+    [9660032322] = true,
     [7909497107] = true,
     [9443560044] = true,
     [10067888587] = true,
     [9034198439] = true,
     [9680871870] = true,
     [9886939282] = true,
-   [9429805898] = true,
+    [9429805898] = true,
 
   -- أضف المزيد من المعرفات ه
 }
